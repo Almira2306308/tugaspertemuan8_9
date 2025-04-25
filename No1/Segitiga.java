@@ -43,6 +43,6 @@ public class Segitiga extends ObjekGeometris{
 
     @Override
     public String toString(){
-        return "Segitiga: sisi = " + side1 + "sisi2 = " + side2 + " sisi3 = " + side3;
+        return "Segitiga: sisi = " + side1 + " sisi2 = " + side2 + " sisi3 = " + side3;
     }
 }
